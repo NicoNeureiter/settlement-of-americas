@@ -41,6 +41,9 @@ urls = [
     "http://biogeo.ucdavis.edu/data/worldclim/v2.0/tif/base/wc2.0_30s_bio.zip",
     # Average monthly precipitation
     "http://biogeo.ucdavis.edu/data/worldclim/v2.0/tif/base/wc2.0_30s_prec.zip",
+
+    # GLOBE
+    "https://www.ngdc.noaa.gov/mgg/topo/DATATILES/elev/all10g.zip",
 ]
 
 for url in urls:
